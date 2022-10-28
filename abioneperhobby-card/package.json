@@ -1,6 +1,6 @@
 {
   "name": "abioneperhobby",
-  "version": "0.0.1",
+  "version": "2.1.0",
   "description": "Personal npm card for Andrea Bisello (@abioneperhobby)",
   "main": "dist/card.js",
   "unpkg": "index.html",
@@ -30,7 +30,6 @@
   ],
   "author": "Andrea Bisello",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
